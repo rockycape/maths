@@ -8,3 +8,5 @@ short division [Chapter 1: Whole numbers 1G Division](http://emac.hotmaths.com.a
 
 rounding numbers & round numbers to within a certain number of significant figures [Chapter 1: Reviewing number and financial mathematics
 1C Rational numbers (Consolidating)](http://emac.hotmaths.com.au/link/16221/section)
+
+Knowing how to round numbers to within a certain number of significant figures allow us to estimate more accurately  via estimating using significant figures
