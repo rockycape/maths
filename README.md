@@ -13,4 +13,4 @@ Knowing how to round numbers to within a certain number of significant figures a
 
 ### Extension into Computer Science
 
-[what-is-the-best-fractional-representation-of-pi?](https://www.wired.com/2011/03/what-is-the-best-fractional-representation-of-pi/)
+[what is the best fractional representation of pi?](https://www.wired.com/2011/03/what-is-the-best-fractional-representation-of-pi/)
