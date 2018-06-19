@@ -2,7 +2,9 @@
 
 ### Essential Mathematics for the VC Year 7
 
-short division [Chapter 1: Whole numbers 1G Division](http://emac.hotmaths.com.au/link/15869/section)
+[subtraction algorythm using borrow from the left](https://www.youtube.com/watch?v=3KZX41dU5ds)
+
+[division algorythm - Chapter 1: Whole numbers 1G Division](http://emac.hotmaths.com.au/link/15869/section)
 
 ### Essential Mathematics for the VC Year 9
 
