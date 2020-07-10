@@ -18,3 +18,11 @@ Knowing how to round numbers to within a certain number of significant figures a
 ### Extension into Computer Science
 
 [what is the best fractional representation of pi?](https://www.wired.com/2011/03/what-is-the-best-fractional-representation-of-pi/)
+
+### Solving Simple Quadratic Equations on WooTube
+
+[Solving Simple Quadratic Equations](https://www.youtube.com/watch?v=ETD_hTyYOwc)
+
+[Solving Non-Monic Quadratic Equations](https://www.youtube.com/watch?v=2k030RuNyOE)
+
+[Factorising Non-Monic Quadratic Expressions](https://www.youtube.com/watch?v=NqmMefQM4yg)
