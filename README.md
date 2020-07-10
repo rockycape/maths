@@ -26,3 +26,5 @@ Knowing how to round numbers to within a certain number of significant figures a
 [Solving Non-Monic Quadratic Equations](https://www.youtube.com/watch?v=2k030RuNyOE)
 
 [Factorising Non-Monic Quadratic Expressions](https://www.youtube.com/watch?v=NqmMefQM4yg)
+
+[Factorising Non-Monic Quadratics: 4 methods](https://www.youtube.com/watch?v=vt491JmFgP0)
