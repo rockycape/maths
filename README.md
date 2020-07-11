@@ -34,3 +34,16 @@ Knowing how to round numbers to within a certain number of significant figures a
 [Polynomials (2 of 3: Adding & Subtracting Polynomials)](https://www.youtube.com/watch?v=aT7Anz35lbI)
 
 [Polynomials (3 of 3: Multiplying Polynomials)](https://www.youtube.com/watch?v=0DCtz5tf3C0)
+
+[Long Division Review (1 of 4: Re-exploring Long Division of Polynomials)
+](https://www.youtube.com/watch?v=uSCCMo4TF98)
+
+[]()
+
+[]()
+
+[]()
+
+### wootube topics aligned to Australian State
+
+If you live in another Australian state or territory, please use the [Mathspace + Wootube portal.](https://wootube.mathspace.co/)
