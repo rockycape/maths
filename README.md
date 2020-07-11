@@ -28,3 +28,9 @@ Knowing how to round numbers to within a certain number of significant figures a
 [Factorising Non-Monic Quadratic Expressions](https://www.youtube.com/watch?v=NqmMefQM4yg)
 
 [Factorising Non-Monic Quadratics: 4 methods](https://www.youtube.com/watch?v=vt491JmFgP0)
+
+[Polynomials (1 of 3: Introduction to Polynomials)](https://www.youtube.com/watch?v=do4v-wDmuD0)
+
+[Polynomials (2 of 3: Adding & Subtracting Polynomials)](https://www.youtube.com/watch?v=aT7Anz35lbI)
+
+[Polynomials (3 of 3: Multiplying Polynomials)](https://www.youtube.com/watch?v=0DCtz5tf3C0)
