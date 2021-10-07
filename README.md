@@ -8,7 +8,7 @@
 
 [division algorythm when dividing by a number between 10 and 99](https://www.youtube.com/watch?v=HdU_rf7eMTI)
 
-[DECIMALS Multiplication & Long Division Algorithms](https://www.youtube.com/watch?v=kwh4SD1ToFc)
+[DECIMALS Multiplication & Long Division Algorythms](https://www.youtube.com/watch?v=kwh4SD1ToFc)
 
 ### Essential Mathematics for the VC Year 9
 
